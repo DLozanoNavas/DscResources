@@ -43,7 +43,7 @@ and Mariah Breakey ([@mbreakey3](https://github.com/mbreakey3)).
 | Repository | Maintainer(s) |
 | ---------- | ------------- |
 | [ActiveDirectoryCSDsc](https://github.com/PowerShell/ActiveDirectoryCSDsc) | Daniel Scott-Raynsford ([@PlagueHO](https://github.com/PlagueHO)) <br/> Jason Ryberg ([@devopsjesus](https://github.com/devopsjesus)) |
-| [ActiveDirectoryDsc](https://github.com/PowerShell/ActiveDirectoryDsc) | Johan Ljunggren ([@johlju](https://github.com/johlju)) <br/> Jan-Hendrik Peters ([@nyanhp](https://github.com/nyanhp)) <br/> Jason Ryberg ([@devopsjesus](https://github.com/devopsjesus)) <br/> Ryan Christman ([rchristman89](https://github.com/rchristman89)) |
+| [ActiveDirectoryDsc](https://github.com/PowerShell/ActiveDirectoryDsc) | Johan Ljunggren ([@johlju](https://github.com/johlju)) <br/> Jan-Hendrik Peters ([@nyanhp](https://github.com/nyanhp)) <br/> Jason Ryberg ([@devopsjesus](https://github.com/devopsjesus)) <br/> Ryan Christman ([@rchristman89](https://github.com/rchristman89)) <br/> Simon Heather ([@x-guardian](https://github.com/x-guardian)) |
 | [AuditPolicyDsc](https://github.com/PowerShell/AuditPolicyDsc) | Adam Haynes ([@athaynes](https://github.com/athaynes)) |
 | [CertificateDsc](https://github.com/PowerShell/CertificateDsc) | Daniel Scott-Raynsford ([@PlagueHO](https://github.com/PlagueHO)) |
 | [ComputerManagementDsc](https://github.com/PowerShell/ComputerManagementDsc) | Tyson Hayes ([@tysonjhayes](https://github.com/tysonjhayes)) <br/> Daniel Scott-Raynsford ([@PlagueHO](https://github.com/PlagueHO)) |
@@ -60,7 +60,7 @@ and Mariah Breakey ([@mbreakey3](https://github.com/mbreakey3)).
 | [SharePointDsc](https://github.com/PowerShell/SharePointDsc) | Yorick Kuijs ([@ykuijs](https://github.com/YKuijs)) <br/> Nik Charlebois ([@NikCharlebois](https://github.com/NikCharlebois)) |
 | [SqlServerDsc](https://github.com/PowerShell/SqlServerDsc) | Johan Ljunggren ([@johlju](https://github.com/johlju)) |
 | [StorageDsc](https://github.com/PowerShell/StorageDsc) | Daniel Scott-Raynsford ([@PlagueHO](https://github.com/PlagueHO)) |
-| [SystemLocaleDsc](https://github.com/PowerShell/SystemLocaleDsc) | Daniel Scott-Raynsford ([@PlagueHO](https://github.com/PlagueHO)) |
+| [SystemLocaleDsc](https://github.com/PowerShell/SystemLocaleDsc) | DEPRECATED - Migrated to [ComputerManagementDsc](https://github.com/PowerShell/ComputerManagementDsc) |
 | [WmiNamespaceSecurityDsc](https://github.com/PowerShell/WmiNamespaceSecurityDsc) | --- |
 | [WSManDsc](https://github.com/PlagueHO/WSManDsc) | Daniel Scott-Raynsford ([@PlagueHO](https://github.com/PlagueHO)) |
 | [xAzure](https://github.com/PowerShell/xAzure) | Chase Wilson ([@chasewilson](https://github.com/chasewilson)) <br/> Jason Ryberg ([@devopsjesus](https://github.com/devopsjesus)) |
